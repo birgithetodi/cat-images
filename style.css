@@ -1,0 +1,52 @@
+div {
+
+margin: auto;
+max-width: 650px;
+text-align: center;
+
+
+
+}
+
+h1{
+
+color: blueviolet;
+border-bottom: 4px solid gray;
+background-color: floralwhite;
+border-radius: 25px;
+padding: 50px;
+margin: 20px;
+
+}
+
+h2{
+
+    color: blueviolet;
+    border-bottom: 4px solid gray;
+    background-color: floralwhite;
+    border-radius: 25px;
+    padding: 25px;
+    margin: 25px;
+
+}
+body{
+
+    background-color: antiquewhite;
+}
+img {
+    width: 400px;
+    height: 350px;
+}
+
+h3{
+
+    color: blueviolet;
+    border-bottom: 4px solid gray;
+    background-color: floralwhite;
+    border-radius: 25px;
+    padding: 25px;
+    margin: 25px;
+    
+    
+
+}
